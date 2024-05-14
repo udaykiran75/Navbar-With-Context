@@ -1,0 +1,25 @@
+.about-page {
+  height: 100vh;
+}
+.about-icon {
+  width: 200px;
+}
+.dark-theme-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  background-color: #000000;
+}
+.light-theme-about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  background-color: #ffffff;
+}
+.horizantal-line {
+  border: 1px solid #dcdcdc;
+}

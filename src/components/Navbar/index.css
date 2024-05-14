@@ -1,0 +1,55 @@
+.light-theme-navbar {
+  background-color: #ffffff;
+  height: 10%;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dark-theme-navbar {
+  background-color: #333333;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.routes-list {
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.light-route-name {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.dark-route-name {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.web-logo {
+  width: 60px;
+}
+.theme-icon {
+  width: 40px;
+  cursor: pointer;
+}
+.theme-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

@@ -1,0 +1,31 @@
+.notfound-page {
+  height: 100vh;
+}
+.notfound-icon {
+  width: 300px;
+}
+.notfound-dark-theme {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  background-color: #000000;
+}
+.notfound-light-theme {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  background-color: #ffffff;
+}
+.horizantal-line {
+  border: 1px solid #dcdcdc;
+}
+.light-para {
+  color: #000000;
+}
+.dark-para {
+  color: #ffffff;
+}
